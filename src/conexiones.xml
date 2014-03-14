@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<conexiones>
+    <conexion>
+        <id>HAM_PRO</id>
+        <cadena>jdbc:</cadena>
+        <usuario>m0072</usuario>
+        <password>Bolicge67</password>
+    </conexion>
+    <conexion>
+        <id>HAM_PRE</id>
+        <cadena>jdbc:</cadena>
+        <usuario>m0072</usuario>
+        <password>Bolicge67</password>
+    </conexion>
+</conexiones>
